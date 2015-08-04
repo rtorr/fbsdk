@@ -1,0 +1,11 @@
+{
+  "name": "@rtorr/ajax-only",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rtorr <rtorruellas@gmail.com> (http://rtorr.com/)",
+  "license": "ISC"
+}
